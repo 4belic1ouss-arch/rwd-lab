@@ -35,10 +35,10 @@ Project praktikum Web Programming yang menerapkan konsep Responsive Web Design, 
 
 | ID | Fitur | Viewport | Pengujian | Expected | Actual | Status |
 |---|---|---|---|---|---|---|
-| TC-01 | Navigasi Menu | 1440px | Klik menu navigasi | Menu dapat digunakan | Berfungsi | Pass |
-| TC-02 | Hero Section | 1440px | Cek tampilan hero | Layout tampil dengan baik | Sesuai | Pass |
-| TC-03 | Grid Katalog | 768px | Cek susunan card | Card tersusun responsif | Sesuai | Pass |
-| TC-04 | Navigasi Keyboard | 375px | Tekan Tab | Fokus berpindah dengan benar | Berfungsi | Pass |
+| TC-01 | Navigasi Menu | 1440px | Klik menu navigasi | Menu dapat digunakan | Berfungsi | Pass | ![TC-01](assets/image/tc-01.png)
+| TC-02 | Hero Section | 1440px | Cek tampilan hero | Layout tampil dengan baik | Sesuai | Pass | ![TC-02](assets/image/tc-02.png)
+| TC-03 | Grid Katalog | 768px | Cek susunan card | Card tersusun responsif | Sesuai | Pass | ![TC-03](assets/image/tc-03.png)
+| TC-04 | Navigasi Keyboard | 375px | Tekan Tab | Fokus berpindah dengan benar | Berfungsi | Pass |![TC-04](assets/image/tc-04.png)
 
 ## Lighthouse
 
