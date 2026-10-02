@@ -1,4 +1,5 @@
 # RWD Lab — Responsive Web Design
+Adelia Putri (42530038)
 
 ## Deskripsi
 Project praktikum Web Programming yang menerapkan konsep Responsive Web Design, Semantic HTML, Accessibility, Flexbox, CSS Grid, dan Responsive Layout.
